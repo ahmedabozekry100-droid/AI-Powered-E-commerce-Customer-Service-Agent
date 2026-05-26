@@ -1,6 +1,11 @@
 # AI-Powered-E-commerce-Customer-Service-Agent
 Autonomous AI agent for e-commerce customer service. Handles product inquiries, order tracking, and price calculations using Gemini AI with custom function calling. Demonstrates real-world business automation with natural language understanding.
 
+## Screenshot
+
+<img width="914" height="758" alt="image" src="https://github.com/user-attachments/assets/c16ea7cb-4408-43e9-a059-6568222cf165" />
+
+
 ## Features
 
 - **Product Search & Stock Checking** - Searches catalog and reports availability in real-time
