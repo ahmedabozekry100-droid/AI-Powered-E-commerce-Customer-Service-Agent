@@ -50,6 +50,8 @@ soon as it ships!
 We currently have 19 in stock, so you are good to go! Let me know if you
 would like help with anything else.
 
+### Example 4: Quantity-Stocks Tracking
+
 ## How It Works
 
 ### 1. Tool Definitions (Agent's Capabilities)
