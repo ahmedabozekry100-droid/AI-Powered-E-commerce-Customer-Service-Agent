@@ -38,19 +38,33 @@ and they are priced at $45.00 each.
 ### Example 2: Order Tracking
 
 👤 CUSTOMER: Where is my stuff? My order number is ORD-999.
+
 ⚙️ SYSTEM: Looking up order ORD-999...
+
 🤖 AGENT: Your order ORD-999 is currently processing. We will update you as
 soon as it ships!
 
 ### Example 3: Quantity-Based Pricing
 
 👤 CUSTOMER: Hello, I would like to inquire how much 5 Coffee Mugs cost to buy?
+
 ⚙️ SYSTEM: Searching catalog for 'Coffee Mug'...
+
 🤖 AGENT: To buy 5 Coffee Mugs, it would cost a total of $75.00 (each mug is $15.00).
 We currently have 19 in stock, so you are good to go! Let me know if you
 would like help with anything else.
 
 ### Example 4: Quantity-Stocks Tracking
+
+👤 CUSTOMER: Greetings, How many Black hoodies and Coffee Mugs are there?
+
+⚙️ SYSTEM: Searching catalog for 'Black hoodie'...
+
+⚙️ SYSTEM: Searching catalog for 'Coffee Mug'...
+
+🤖 AGENT: Greetings! We currently have 12 Black Hoodies and 19 Coffee Mugs in stock. 
+
+Please let me know if you have any other questions or if you'd like help placing an order!
 
 ## How It Works
 
