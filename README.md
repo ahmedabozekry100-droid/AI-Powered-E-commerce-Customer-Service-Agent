@@ -31,7 +31,9 @@ System Instructions
 ### Example 1: Product Inquiry with Stock Check
 
 👤 CUSTOMER: Do you have any black hoodies in stock? And how much are they?
+
 ⚙️ SYSTEM: Searching catalog for 'black hoodie'...
+
 🤖 AGENT: Yes, we do have black hoodies in stock! We currently have 12 available,
 and they are priced at $45.00 each.
 
